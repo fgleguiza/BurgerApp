@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fgleg\\source\\repos\\burgerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fgleg\\source\\repos\\burgerApp\\Migrations\\20250612012859_burgerapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250612012859_burgerapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B209AA-1B3B-4AC2-B830-88E4341C56A9}|burgerApp.csproj|c:\\users\\fgleg\\source\\repos\\burgerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B209AA-1B3B-4AC2-B830-88E4341C56A9}|burgerApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B209AA-1B3B-4AC2-B830-88E4341C56A9}|burgerApp.csproj|c:\\users\\fgleg\\source\\repos\\burgerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77B209AA-1B3B-4AC2-B830-88E4341C56A9}|burgerApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B209AA-1B3B-4AC2-B830-88E4341C56A9}|burgerApp.csproj|c:\\users\\fgleg\\source\\repos\\burgerapp\\context\\escueladatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B209AA-1B3B-4AC2-B830-88E4341C56A9}|burgerApp.csproj|solutionrelative:context\\escueladatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B209AA-1B3B-4AC2-B830-88E4341C56A9}|burgerApp.csproj|c:\\users\\fgleg\\source\\repos\\burgerapp\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B209AA-1B3B-4AC2-B830-88E4341C56A9}|burgerApp.csproj|solutionrelative:models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B209AA-1B3B-4AC2-B830-88E4341C56A9}|burgerApp.csproj|c:\\users\\fgleg\\source\\repos\\burgerapp\\models\\deporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B209AA-1B3B-4AC2-B830-88E4341C56A9}|burgerApp.csproj|solutionrelative:models\\deporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250612012859_burgerapp.cs",
+              "DocumentMoniker": "C:\\Users\\fgleg\\source\\repos\\burgerApp\\Migrations\\20250612012859_burgerapp.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250612012859_burgerapp.cs",
+              "ToolTip": "C:\\Users\\fgleg\\source\\repos\\burgerApp\\Migrations\\20250612012859_burgerapp.cs",
+              "RelativeToolTip": "Migrations\\20250612012859_burgerapp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:28:59.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fgleg\\source\\repos\\burgerApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fgleg\\source\\repos\\burgerApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T00:57:29.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fgleg\\source\\repos\\burgerApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\fgleg\\source\\repos\\burgerApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T00:44:01.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EscuelaDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\fgleg\\source\\repos\\burgerApp\\Context\\EscuelaDatabaseContext.cs",
+              "RelativeDocumentMoniker": "Context\\EscuelaDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\fgleg\\source\\repos\\burgerApp\\Context\\EscuelaDatabaseContext.cs",
+              "RelativeToolTip": "Context\\EscuelaDatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T00:40:52.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Deporte.cs",
+              "DocumentMoniker": "C:\\Users\\fgleg\\source\\repos\\burgerApp\\Models\\Deporte.cs",
+              "RelativeDocumentMoniker": "Models\\Deporte.cs",
+              "ToolTip": "C:\\Users\\fgleg\\source\\repos\\burgerApp\\Models\\Deporte.cs",
+              "RelativeToolTip": "Models\\Deporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T00:38:31.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\fgleg\\source\\repos\\burgerApp\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\fgleg\\source\\repos\\burgerApp\\Models\\Estudiante.cs",
+              "RelativeToolTip": "Models\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T00:24:51.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
